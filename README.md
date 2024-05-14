@@ -17,4 +17,4 @@ Welcome to Duck Hunt, a classic and nostalgic game recreated with a multimedia t
 
 1. Run the game script using Python.
 
-   python duck_hunt.py
+   python duckhunt1.py
